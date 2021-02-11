@@ -7,6 +7,7 @@
 Application that will allow a user to keep track of their budget.  Should provide user with the ability to add money via a depost or remove money via a withdrawl.  App makes use of PWA features to allow offline functionality and record offline transactions to be loaded at next connection.
 
 Deployed Site: [https://budget-tracker-1234.herokuapp.com/](https://budget-tracker-1234.herokuapp.com)
+
 Site Repository: [https://github.com/Udunomancer/gt-ft-budget-tracker](https://github.com/Udunomancer/gt-ft-budget-tracker)
 
 ![Image](assets/images/budget-tracker-screenshot.png)
@@ -49,6 +50,7 @@ Site Repository: [https://github.com/Udunomancer/gt-ft-budget-tracker](https://g
 ## <a name="contributing"></a> Contributing
 
 No public contributions accepted in this repository at this time.
+
 If issues are found, please contact me using email/GitHub profile found in the Questions section below.
 
 ## <a name="tests"></a> Tests
